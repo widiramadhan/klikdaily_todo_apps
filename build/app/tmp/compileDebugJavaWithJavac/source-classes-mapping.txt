@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+assignment/test/assignment_inspiro/BuildConfig.java
+ assignment.test.assignment_inspiro.BuildConfig

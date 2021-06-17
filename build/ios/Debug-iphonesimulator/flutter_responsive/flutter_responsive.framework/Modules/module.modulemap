@@ -1,0 +1,11 @@
+framework module flutter_responsive {
+  umbrella header "flutter_responsive-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_responsive.Swift {
+    header "flutter_responsive-Swift.h"
+    requires objc
+}

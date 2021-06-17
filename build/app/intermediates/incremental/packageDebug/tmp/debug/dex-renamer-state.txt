@@ -1,0 +1,4 @@
+#Sat Jun 05 05:41:47 WIB 2021
+base.0=/Volumes/widiramadhan/PROJECT/inspiro/assignment_inspiro/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,2 @@
+me/carda/flutter_responsive/BuildConfig.java
+ me.carda.flutter_responsive.BuildConfig
